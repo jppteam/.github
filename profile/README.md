@@ -17,3 +17,5 @@ By choosing j++ team you won't know where your money is going, because we like s
 j++ team is the leading j++ team in the market (Play Market, Vegetable Market, Weed Market, j++ Market (coming soon)).
 
 1782-2032 j++ team. All rights reserved. I guess? Спасибо за внимание.
+
+![Cool meme here](https://raw.githubusercontent.com/jppteam/.github/lord/img/dosvidos.jpg "Привет")
