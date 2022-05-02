@@ -18,4 +18,6 @@ j++ team is the leading j++ team in the market (Play Market, Vegetable Market, W
 
 1782-2032 j++ team. All rights reserved. I guess? Спасибо за внимание.
 
+![halal alert](https://user-images.githubusercontent.com/23311163/166300207-7e53ae91-08c3-455e-8d77-edc351dd4023.png)
+
 ![Cool meme here](https://raw.githubusercontent.com/jppteam/.github/lord/img/dosvidos.jpg "Привет")
