@@ -2,7 +2,7 @@
 
 That's ***j++* team* (a.k.a. **привет *иван***) organization
 
-![Cool meme here](../img/hello.jpg "Привет")
+![Cool meme here](https://raw.githubusercontent.com/jppteam/.github/lord/img/hello.jpg "Привет")
 
 How? Не знаю.
 
