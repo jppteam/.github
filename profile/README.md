@@ -2,7 +2,7 @@
 
 That's ***j++* team* (a.k.a. **привет *иван***) organization
 
-![Cool meme here](https://raw.githubusercontent.com/jppteam/.github/lord/img/hello.jpg "Привет")
+[![Cool meme here](https://raw.githubusercontent.com/jppteam/.github/lord/img/hello.jpg "Привет")](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 How? Не знаю.
 
@@ -20,4 +20,4 @@ j++ team is the leading j++ team in the market (Play Market, Vegetable Market, W
 
 ![halal alert](https://user-images.githubusercontent.com/23311163/166300207-7e53ae91-08c3-455e-8d77-edc351dd4023.png)
 
-![Cool meme here](https://raw.githubusercontent.com/jppteam/.github/lord/img/dosvidos.jpg "Привет")
+[![Cool meme here](https://raw.githubusercontent.com/jppteam/.github/lord/img/dosvidos.jpg "Пока")](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
